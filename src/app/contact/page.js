@@ -44,10 +44,10 @@ className=" w-full " data-aos="fade-up" data-aos-delay="200"
                   <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Follow us</h2>
                   <ul className="text-gray-500 dark:text-gray-400 font-medium">
                       <li className="mb-4">
-                          <a href="https://github.com/themesberg/flowbite" className="hover:underline " target="#">Facebook</a>
+                          <a href="https://www.facebook.com/profile.php?id=100079771069061"  className="hover:underline " target="#">Facebook</a>
                       </li>
                       <li>
-                          <a href="https://discord.gg/4eeurUVvTy" className="hover:underline" target="#">Instagram</a>
+                          <a href="#" className="hover:underline" target="#">Instagram</a>
                       </li>
                   </ul>
               </div>
@@ -69,7 +69,7 @@ className=" w-full " data-aos="fade-up" data-aos-delay="200"
           <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="/" className="hover:underline">Mubashir & Company™</a>. All Rights Reserved.
           </span>
           <div className="flex mt-4 sm:justify-center sm:mt-0">
-              <a href="#" className="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+              <a href="https://www.facebook.com/profile.php?id=100079771069061" target="#" className="text-gray-500 hover:text-gray-900 dark:hover:text-white">
                   <svg className="w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 8 19">
                         <path fillRule="evenodd" d="M6.135 3H8V0H6.135a4.147 4.147 0 0 0-4.142 4.142V6H0v3h2v9.938h3V9h2.021l.592-3H5V3.591A.6.6 0 0 1 5.592 3h.543Z" clipRule="evenodd"/>
                     </svg>
