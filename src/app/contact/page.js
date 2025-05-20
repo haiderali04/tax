@@ -1,4 +1,4 @@
-const Footer =()=>{
+const Contact =()=>{
     return(
         <>
         
@@ -108,4 +108,4 @@ className=" w-full " data-aos="fade-up" data-aos-delay="200"
 }
 
 
-export default Footer;
+export default Contact;
