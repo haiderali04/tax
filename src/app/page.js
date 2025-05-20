@@ -14,7 +14,7 @@ export default function Home() {
     >
      
       <div className="absolute top-0 right-0 bottom-0 left-0 bg-gray-900 opacity-75 inset-0"></div>
-{/* <div class="absolute top-0 right-0 bottom-0 left-0 bg-gray-900 opacity-75"></div> */}
+{/* <div className="absolute top-0 right-0 bottom-0 left-0 bg-gray-900 opacity-75"></div> */}
      
       <div className="relative z-10 text-center px-4">
         <h1 className="text-4xl md:text-6xl font-bold mb-4 text-white font-mono">
@@ -165,49 +165,49 @@ className=" w-full " data-aos="fade-up" data-aos-delay="200"
 
      
 
-<footer class="bg-white dark:bg-gray-900">
-    <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
-        <div class="md:flex md:justify-between">
-          <div class="mb-6 md:mb-0">
-              <a href="/" class="flex items-center">
-                  <img src="./logo.svg" class="h-12 me-3" alt="FlowBite Logo" />
+<footer className="bg-white dark:bg-gray-900">
+    <div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
+        <div className="md:flex md:justify-between">
+          <div className="mb-6 md:mb-0">
+              <a href="/" className="flex items-center">
+                  <img src="./logo.svg" className="h-12 me-3" alt="FlowBite Logo" />
            
               </a>
           </div>
-          <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
+          <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
               <div>
-                  <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Resources</h2>
-                  <ul class="text-gray-500 dark:text-gray-400 font-medium">
-                      <li class="mb-4">
-                          <a href="#" class="hover:underline">Address (144 St 4, Awan Market, Lahore, 54600)</a>
+                  <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Resources</h2>
+                  <ul className="text-gray-500 dark:text-gray-400 font-medium">
+                      <li className="mb-4">
+                          <a href="#" className="hover:underline">Address (144 St 4, Awan Market, Lahore, 54600)</a>
                       </li>
                       <li>
-                          <a href="#" class="hover:underline">Email address</a>
+                          <a href="#" className="hover:underline">Email address</a>
                       </li>
                       <li>
-                          <a href="#" class="hover:underline">03014810410</a>
+                          <a href="#" className="hover:underline">03014810410</a>
                       </li>
                   </ul>
               </div>
               <div>
-                  <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Follow us</h2>
-                  <ul class="text-gray-500 dark:text-gray-400 font-medium">
-                      <li class="mb-4">
-                          <a href="https://github.com/themesberg/flowbite" class="hover:underline " target="#">Facebook</a>
+                  <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Follow us</h2>
+                  <ul className="text-gray-500 dark:text-gray-400 font-medium">
+                      <li className="mb-4">
+                          <a href="https://github.com/themesberg/flowbite" className="hover:underline " target="#">Facebook</a>
                       </li>
                       <li>
-                          <a href="https://discord.gg/4eeurUVvTy" class="hover:underline" target="#">Instagram</a>
+                          <a href="https://discord.gg/4eeurUVvTy" className="hover:underline" target="#">Instagram</a>
                       </li>
                   </ul>
               </div>
               <div>
-                  <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Legal</h2>
-                  <ul class="text-gray-500 dark:text-gray-400 font-medium">
-                      <li class="mb-4">
-                          <a href="#" class="hover:underline">Privacy Policy</a>
+                  <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Legal</h2>
+                  <ul className="text-gray-500 dark:text-gray-400 font-medium">
+                      <li className="mb-4">
+                          <a href="#" className="hover:underline">Privacy Policy</a>
                       </li>
                       <li>
-                          <a href="#" class="hover:underline">Terms &amp; Conditions</a>
+                          <a href="#" className="hover:underline">Terms &amp; Conditions</a>
                       </li>
                   </ul>
               </div>
